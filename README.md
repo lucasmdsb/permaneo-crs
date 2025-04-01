@@ -1,4 +1,4 @@
-## TODO
+## SETUP
 
 - 1. git clone git@github.com:lucasmdsb/permaneo-crs.git
 - 2. cd permaneo-crs
